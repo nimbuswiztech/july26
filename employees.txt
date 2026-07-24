@@ -1,0 +1,7 @@
+ID,Name,Department,Age,City,Salary
+101,John Smith,HR,36,Bangalore,450000
+102,John Wayne,Finance,48,Chennai,620000
+103,Edward King,Finance,40,Mumbai,580000
+104,Stephen Fry,IT,50,Bangalore,720000
+105,Melissa Noon,Research,33,Delhi,510000
+106,James Rao,HR,42,Chennai,490000

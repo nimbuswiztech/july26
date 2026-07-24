@@ -1,0 +1,21 @@
+total 80
+-rw-r--r--  1 sid  staff  2412 15 Jul 08:33 app.log
+-rw-r--r--  1 sid  staff    25 14 Jul 08:39 app.py
+-rw-r--r--  1 sid  staff    44 14 Jul 08:43 combined.txt
+drwxr-xr-x  2 sid  staff    64 14 Jul 08:15 d1
+drwxr-xr-x  2 sid  staff    64 14 Jul 08:16 d2
+drwxr-xr-x  2 sid  staff    64 14 Jul 08:17 dev
+-rw-r--r--  1 sid  staff   640 14 Jul 08:52 dir.txt
+-rw-r--r--  1 sid  staff   908 15 Jul 08:25 f1
+-rw-r--r--  1 sid  staff   908 15 Jul 08:28 f2
+-rw-r--r--  1 sid  staff     0 15 Jul 08:38 files
+-rw-r--r--  1 sid  staff   767 15 Jul 08:37 head15.log
+-rw-r--r--  1 sid  staff     0 14 Jul 08:25 main.py
+-rw-r--r--  1 sid  staff   428 15 Jul 08:11 notes.txt
+drwxr-xr-x  2 sid  staff    64 14 Jul 08:17 prod
+drwxr-xr-x  3 sid  staff    96 14 Jul 08:18 project
+drwxr-xr-x  2 sid  staff    64 14 Jul 08:17 qa
+-rw-r--r--  1 sid  staff     0 14 Jul 08:25 readme.md
+-rw-r--r--  1 sid  staff     0 14 Jul 08:25 req.txt
+-rw-r--r--  1 sid  staff    19 14 Jul 08:32 test
+-rw-r--r--  1 sid  staff    25 14 Jul 08:53 test.py

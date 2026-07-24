@@ -1,0 +1,15 @@
+Line  1: This is the first line of the sample file.
+Line  2: Quick brown fox jumps over the lazy dog.
+Line  3: Learning command line tools is very useful.
+Line  4: Grep and pattern search are powerful tools.
+Line  5: Word count shows lines, words, and bytes.
+Line  6: Head shows the beginning of any text file.
+Line  7: Tail shows the end part of any text file.
+Line  8: Files in Linux are just streams of bytes.
+Line  9: You can combine tools with pipes easily.
+Line 10: For example, grep error log | head -5.
+Line 11: Tail is great for watching log files live.
+Line 12: Use tail -f to follow a file in real time.
+Line 13: Many commands accept multiple input files.
+Line 14: Options usually start with a single dash.
+Line 15: Some options take numbers as arguments.

@@ -1,0 +1,49 @@
+Line  1: This is the first line of the sample file.
+Line  2: Quick brown fox jumps over the lazy dog.
+Line  3: Learning command line tools is very useful.
+Line  4: Grep and pattern search are powerful tools.
+Line  5: Word count shows lines, words, and bytes.
+Line  6: Head shows the beginning of any text file.
+Line  7: Tail shows the end part of any text file.
+Line  8: Files in Linux are just streams of bytes.
+Line  9: You can combine tools with pipes easily.
+Line 10: For example, grep error log | head -5.
+Line 11: Tail is great for watching log files live.
+Line 12: Use tail -f to follow a file in real time.
+Line 13: Many commands accept multiple input files.
+Line 14: Options usually start with a single dash.
+Line 15: Some options take numbers as arguments.
+Line 16: You can use -n to specify line counts.
+Line 17: Shell scripts automate repetitive tasks.
+Line 18: Variables store values in shell scripts.
+Line 19: Loops help process many files at once.
+Line 20: Conditions decide which path to follow.
+Line 21: Functions make scripts more organized.
+Line 22: Errors can be caught and handled nicely.
+Line 23: Debugging is essential for good scripts.
+Line 24: Always test your code on small data.
+Line 25: Large files may need special handling.
+Line 26: Awk is useful for column-based processing.
+Line 27: Sed can do in-place text replacements.
+Line 28: Find helps you locate files by name.
+Line 29: Permissions control who can read files.
+Line 30: Directories organize files hierarchically.
+Line 31: Pathnames tell you where files are stored.
+Line 32: Relative paths start from current folder.
+Line 33: Absolute paths always start with a slash.
+Line 34: Cron schedules jobs to run automatically.
+Line 35: System logs record important events.
+Line 36: Users can be created and managed easily.
+Line 37: Groups simplify permission management.
+Line 38: Processes run in the background quietly.
+Line 39: Jobs can be started and stopped anytime.
+Line 40: Monitoring tools show system performance.
+Line 41: Networks connect computers together globally.
+Line 42: Packets travel through routers and switches.
+Line 43: DNS translates names into IP addresses.
+Line 44: HTTP is used for web page transfers.
+Line 45: SSH provides secure remote access.
+Line 46: Git helps track changes in your code.
+Line 47: Repositories store all your project files.
+Line 48: Commits record snapshots of your work.
+Line 49: Collab

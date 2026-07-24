@@ -1,0 +1,10 @@
+Note: Demo for grep and pattern search
+--------------------------------------
+Log: Could not connect to server.Log, Log
+Warning: Low disk space on /dev/sda1.Log
+Info: User NIbusWizTech logged in from Bengaluru.
+Log: Timeout while reading from database.
+Debug: Starting backup process at 2026-07-15.
+Warning: High CPU usage on core 3.
+Info: Backup completed successfully.
+Log: Permission denied for /var/log/app.log.
